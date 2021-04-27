@@ -54,8 +54,6 @@ $ npm install got
 
 ## Documentation
 
-### Migration guides
-
 ### Table of Contents
 
 - [Options](documentation/options.md)
@@ -82,6 +80,8 @@ $ npm install got
 - [Good practices](documentation/tips.md)
 
 <hr>
+
+### Migration guides
 
 - [Request migration guide](documentation/migration-guides.md#request)
   - [*(Note that Request is unmaintained)*](https://github.com/request/request/issues/3142)
